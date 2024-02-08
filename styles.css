@@ -18,7 +18,7 @@ input[type="date"], input[type="password"], select, input[type="tel"]{
 input[type="checkbox"]{
 	margin-bottom: 10px;
 }
-input[type="button"]{
+button{
 	padding: 10px 20px;
 	border: none;
 	color: white;
@@ -26,7 +26,7 @@ input[type="button"]{
 	background-color: #1c1cd6;
 	cursor: pointer;
 }
-input[type="button"]:hover{
+button:hover{
 	border: 2px solid #1c1cd6;
 	background-color: white;
 	color: #1c1cd6;
